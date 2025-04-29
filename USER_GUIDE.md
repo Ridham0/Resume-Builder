@@ -17,7 +17,7 @@ Resume Builder works best on a desktop.
 
 1. Visit https://resume-builder-web-app-ridhams-projects-c8b72b97.vercel.app
 1. Select "Editor" in the top pane
-1. Select "Import in the top pane". Import the JSON that was generated in the [Building a Resume](#building-a-resume) section.
+1. Select "Import in the top pane". Import the JSON that was generated in the [Building a Resume] section.
 
 ## Running the environment locally or in Docker
 
